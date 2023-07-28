@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Somnath/static/css/main.b3ddbe15.css",
+    "main.js": "/Portfolio_Somnath/static/js/main.6b2bb701.js",
+    "static/media/updated resume2.pdf": "/Portfolio_Somnath/static/media/updated resume2.f797a9fb588d90a25b78.pdf",
+    "static/media/img14.jpg": "/Portfolio_Somnath/static/media/img14.740f9c56878411510d6d.jpg",
+    "static/media/img10.jpg": "/Portfolio_Somnath/static/media/img10.0b9b9b8619b7b7855f16.jpg",
+    "static/media/reactjs.png": "/Portfolio_Somnath/static/media/reactjs.b2a87a53ea8d7ca82ba3.png",
+    "static/media/html5.jpg": "/Portfolio_Somnath/static/media/html5.ef6c484192d524518883.jpg",
+    "static/media/python.png": "/Portfolio_Somnath/static/media/python.3497cd73c9f68aadd449.png",
+    "index.html": "/Portfolio_Somnath/index.html",
+    "main.b3ddbe15.css.map": "/Portfolio_Somnath/static/css/main.b3ddbe15.css.map",
+    "main.6b2bb701.js.map": "/Portfolio_Somnath/static/js/main.6b2bb701.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3ddbe15.css",
+    "static/js/main.6b2bb701.js"
+  ]
+}
